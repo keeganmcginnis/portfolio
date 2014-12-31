@@ -1,6 +1,6 @@
 @media screen and (max-width: 680px){
 
-	/* Smartphone and iPhone layout ONLY!!!!!!! */
+	/*********************** Smartphone and iPhone layout ONLY!!!!!!! **************************/
 
 
 	/* General page layouts */
@@ -94,13 +94,27 @@
 	.music1{
 		margin-bottom: 20px;
 	}
+
+
+
+    /* Index page layouts */
+
+
+    .home_text{
+        font-size: 15px;
+    }
+
+    .index_pic{
+        width: 500px;
+        height: 300px;
+    }
 }
 
 
 
 @media only screen and (min-width : 768px) and (max-width : 1024px){
 
-	/* iPad and tablet layout ONLY!!!!!!! */
+	/*********** iPad and tablet layout ONLY!!!!!!! ******************/
 
 
 	/* General page layouts */

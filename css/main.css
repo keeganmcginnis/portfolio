@@ -1,3 +1,5 @@
+/***************** General Layouts *****************/
+
 .home_text{
 	font-size: 23.8888px;
 	margin-top: 40px;
@@ -36,34 +38,24 @@ a{
 	color: white;
 }
 
+/* Music page layouts */
+
 .music1{
 	margin-bottom: 80px;
 }
+
+.music_text{
+	font-size: 32px;
+	margin-bottom: 80px;
+}
+
+
+/******************* About page layouts ******************/
 
 .apple{
 	height: 225px;
 	width: 225px;
 }
-
-.contact_pic{
-	height: 400px;
-	width: 225px;
-}
-
-.phone_pic{
-	height: 37px;
-	width: 17px;
-}
-
-.phone_number{
-	display: inline;
-}
-
-.mail_pic{
-	height: 37px;
-	width: 37px;
-}
-
 
 .webdesign{
 	float: right;
@@ -72,10 +64,28 @@ a{
 }
 
 
-.music_text{
-	font-size: 32px;
-	margin-bottom: 80px;
+/********************* Contact page layouts *****************/
+
+.contact_pic{
+	height: 400px;
+	width: 225px;
 }
+
+.mail_pic{
+	height: 37px;
+	width: 37px;
+}
+
+.phone_number{
+	display: inline;
+}
+
+.phone_pic{
+	height: 37px;
+	width: 17px;
+}
+
+
 
 
 
